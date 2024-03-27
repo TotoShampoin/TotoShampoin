@@ -1,4 +1,4 @@
-# ![TotoShampoin](./assets/logo-small.png)
+# [![TotoShampoin](./assets/logo-small.png)](http://totoshampoin.fr/)
 
 <!--
 **TotoShampoin/TotoShampoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
