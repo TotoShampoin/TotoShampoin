@@ -1,4 +1,4 @@
-# Welcome to TotoShampoin's Github page
+# ![TotoShampoin](./assets/logo-small.png)
 
 <!--
 **TotoShampoin/TotoShampoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
